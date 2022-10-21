@@ -28,3 +28,7 @@ dependencies:
   # For code style & repo QA
   - black
   - pre-commit
+
+  - pip:
+    # editable install of gha-workflows-checker package
+    - --editable ../
