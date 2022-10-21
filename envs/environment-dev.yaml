@@ -1,0 +1,30 @@
+# conda environment description file for gha-workflows-checker package
+# development environment
+#
+# Create a conda environment for development, testing and documentation of the package
+# with:
+#
+#   $ conda env create -f gha-workflows-checker/envs/environment-dev.yaml
+#   $ conda activate gha-workflows-checker
+#
+# See the envs/requirements.txt file for an exhaustive list of all the
+# packages installed in the environment and their versions used in
+# recent development.
+
+name: gha-workflows-checker
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - click
+  - gh
+  - pip
+  - python=3.10
+  - pyyaml
+  - rich
+
+  # For code style & repo QA
+  - black
+  - pre-commit
