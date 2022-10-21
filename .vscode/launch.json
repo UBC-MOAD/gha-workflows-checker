@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Module",
+            "type": "python",
+            "request": "launch",
+            "module": "gha_workflows_checker.gha_workflows_checker",
+            "justMyCode": true
+        },
+    ]
+}
