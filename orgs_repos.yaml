@@ -1,0 +1,21 @@
+SalishSeaCast:
+  - docs
+  - NEMO-Cmd
+  - SalishSeaCmd
+  - SalishSeaNowcast
+  - salishsea-site
+
+SS-Atlantis:
+  - AtlantisCmd
+
+UBC-MOAD:
+  - docs
+  - MoaceanParcels
+  - moad_tools
+  - Reshapr
+
+MIDOSS:
+  - docs
+  - Make-MIDOSS-Forcing
+  - MOHID-Cmd  # CodeQL 15651608 is disabled due to bad file name
+  - WWatch3-Cmd
