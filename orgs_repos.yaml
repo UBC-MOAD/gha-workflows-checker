@@ -13,7 +13,7 @@ UBC-MOAD:
   - docs
   - gha-workflows-checker
   - MoaceanParcels
-  - moad_tools
+  - moad_tools  # Refactored-linkcheck 40347625 is disabled; test workflow
   - Reshapr
 
 MIDOSS:
