@@ -17,7 +17,8 @@ UBC-MOAD:
   - moad_tools  # Refactored-linkcheck 40347625 is disabled; test workflow
   - Reshapr
 
-MIDOSS:
-  - docs
-  - Make-MIDOSS-Forcing
-  - MOHID-Cmd  # CodeQL 15651608 is disabled due to bad file name
+# MIDOSS repos were archived on 16-Dec-2022
+# MIDOSS:
+#   - docs
+#   - Make-MIDOSS-Forcing
+#   - MOHID-Cmd  # CodeQL 15651608 is disabled due to bad file name
