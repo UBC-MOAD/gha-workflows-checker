@@ -11,6 +11,7 @@ SS-Atlantis:
 
 UBC-MOAD:
   - docs
+  - gha-workflows
   - gha-workflows-checker
   - MoaceanParcels
   - moad_tools  # Refactored-linkcheck 40347625 is disabled; test workflow
