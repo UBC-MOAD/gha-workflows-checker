@@ -23,7 +23,7 @@ pycparser==2.21
 Pygments==2.13.0
 PyYAML==6.0
 rich==12.6.0
-setuptools==65.5.0
+setuptools==65.5.1
 toml==0.10.2
 tomli==2.0.1
 typing_extensions==4.4.0
