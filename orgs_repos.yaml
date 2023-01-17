@@ -4,7 +4,8 @@ SalishSeaCast:
   - SalishSeaCmd
   - SalishSeaNowcast
   - salishsea-site
-  - WWatch3-Cmd
+# WWatch3-Cmd repo was archived on 17-Jan-2023
+#   - WWatch3-Cmd
 
 SS-Atlantis:
   - AtlantisCmd
