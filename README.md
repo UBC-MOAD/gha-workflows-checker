@@ -8,6 +8,8 @@
 [![CodeQL analysis](https://github.com/UBC-MOAD/gha-workflows-checker/actions/workflows/codeql-analysis.yaml/badge.svg)](https://github.com/UBC-MOAD/gha-workflows-checker/actions?query=workflow:CodeQL)
 [![Issue Tracker](https://img.shields.io/github/issues/UBC-MOAD/gha-workflows-checker?logo=github)](https://github.com/UBC-MOAD/Reshapr/issues)
 
+**This repo has been archived.**
+The `gha_workflows_checker.py` script was moved to https://github.com/UBC-MOAD/gha-workflows/
 
 Script that uses GitHub CLI tool to list GitHub Actions workflows in repositories
 with their enables/disable status.
